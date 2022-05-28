@@ -7,7 +7,6 @@ Meshack Cheberi
 
 ## Screenshot
 
-![images/Screenshot from 2022-05-28 11-18-15.png](url "images/Screenshot from 2022-05-28 11-18-15.png")
 
 
 ## Development
